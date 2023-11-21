@@ -1,0 +1,22 @@
++ Pete Seeger Theatre Website Roadmap +
+
+-- HOME --
+
+* Sliding Gallery Link to Current Shows Page
+
+-- CURRENT SHOWS --
+
+* Finding Nemo / Phantom of the Opera
+
+-- CREW --
+
+* Meet Your Techs
+
+-- GALLERY --
+
+* 5x5? Grid
+
+--  CONTACT --
+
+* Space Request / Comment Form 
+
