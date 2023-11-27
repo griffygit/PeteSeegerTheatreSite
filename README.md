@@ -1,4 +1,4 @@
-# PeteSeegerTheatreSite
+# PeteSeegerTheatre
 
 HTML & CSS code for the Pete Seeger Theatre's website.
 <br><i>This is a final project for CIS107. Information may not be up to date.</i>
