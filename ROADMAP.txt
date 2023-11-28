@@ -30,4 +30,5 @@
 
 * Have some sort of page for the site map and page layout drawings.
 * It shouldn't be super visible but still accessible.
+* Link to github page too , maybe at footer?
 
