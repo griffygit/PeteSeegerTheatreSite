@@ -1,22 +1,33 @@
 + Pete Seeger Theatre Website Roadmap +
 
+
 -- HOME (index.html) --
 
 * Sliding Gallery Link to Current Shows Page
+
 
 -- CURRENT SHOWS (shows.html) --
 
 * Finding Nemo / Phantom of the Opera
 
+
 -- STAFF (staff.html) --
 
 * Meet Your Techs
+
 
 -- GALLERY (gallery.html) --
 
 * 5x5? Grid
 
+
 --  CONTACT (contact.html) --
 
 * Space Request / Comment Form 
+
+
+-- FINAL ATTACHMENTS --
+
+* Have some sort of page for the site map and page layout drawings.
+* It shouldn't be super visible but still accessible.
 
