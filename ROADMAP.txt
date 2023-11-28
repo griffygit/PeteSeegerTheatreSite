@@ -1,5 +1,8 @@
 + Pete Seeger Theatre Website Roadmap +
 
+GENERAL TO DO
+= Code Barebones Page and Copy it over
+= Pick Color Palette
 
 -- HOME (index.html) --
 
@@ -8,17 +11,23 @@
 
 -- CURRENT SHOWS (shows.html) --
 
-* Finding Nemo / Phantom of the Opera
+* Finding Nemo / Mean Girls / Phantom of the Opera
+* Poster and Small Info Box
+* Ticket Purchasing for the last two?
+* Previous Show Archive?
 
 
 -- STAFF (staff.html) --
 
-* Meet Your Techs
+* Randy 
+* Caleb Delaney Justin Omar Senan
+* Students
 
 
 -- GALLERY (gallery.html) --
 
-* 5x5? Grid
+* Grid
+* Lighting Array , Show Pictures , Stage , Set Building , Board Controlling
 
 
 --  CONTACT (contact.html) --
