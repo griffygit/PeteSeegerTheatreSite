@@ -3,15 +3,23 @@ header {
     font-weight: bold;
 }
 
-nav a: :hover {
-}
-
-nav a
-
 p {
     font-style: italic;
 }
 
+a {
+    text-decoration: none; color: white;
+}
+
+a :visited {
+    text-decoration: none;
+}
+a :hover {
+    text-decoration: none; color: rgb(236, 204, 145); font-weight: bold;
+}
+a :focus {
+    text-decoration: none; 
+}
 body {
     text-align: center; 
     font-family: Arial, Helvetica, sans-serif; 
@@ -38,20 +46,34 @@ body {
 
 .nav-container {
     max-width: 600px;
+    color: white;
     margin: 40px auto;
     border-radius: 10px;
-    padding: 20px;
-    background-color: rgba(236, 204, 145, 0.507);
+    padding: 1px 10px 25px;
+    background-color: rgb(49, 49, 49);
     position: relative;
 }
 
 .content-container {
     max-width: 800px;
-    margin-top: 30px;
     margin: 20px auto;
     border-radius: 10px; 
     border-color: black;
     padding: 20px;
     background-color: rgb(236, 204, 145);
     position: relative;
+}
+
+.img-container {
+    max-width: 800px;
+    margin: auto;
+    border-radius: 10px; 
+    border-color: black;
+    padding: 20px;
+    background-color: rgb(236, 204, 145);
+    position: relative;
+}
+
+img {
+    max-width: 100%; max-height: 100%;
 }
