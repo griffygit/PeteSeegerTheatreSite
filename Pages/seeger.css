@@ -3,23 +3,20 @@ header {
     font-weight: bold;
 }
 
-p {
-    font-style: italic;
-}
-
 a {
     text-decoration: none; color: white;
 }
 
-a :visited {
+a:visited {
     text-decoration: none;
 }
-a :hover {
-    text-decoration: none; color: rgb(236, 204, 145); font-weight: bold;
+a:hover {
+    text-decoration: none; color: #f1bc60; font-weight: bold;
 }
-a :focus {
+a:focus {
     text-decoration: none; 
 }
+
 body {
     text-align: center; 
     font-family: Arial, Helvetica, sans-serif; 
@@ -41,36 +38,52 @@ body {
     background-image: url("../Images/WideAngle.jpg");
     background-size: cover;
     background-position: center;
-    filter: blur(1px);
+    filter: blur(3px);
 }
 
-.nav-container {
+.nav-box {
     max-width: 600px;
     color: white;
+    font-weight: bold;
     margin: 40px auto;
     border-radius: 10px;
-    padding: 1px 10px 25px;
-    background-color: rgb(49, 49, 49);
+    padding: 10px 10px;
     position: relative;
 }
 
-.content-container {
+.content-box {
     max-width: 800px;
     margin: 20px auto;
     border-radius: 10px; 
     border-color: black;
     padding: 20px;
-    background-color: rgb(236, 204, 145);
+    background-color: #ab4c19;
     position: relative;
 }
 
-.img-container {
+.footer-box {
+    max-width: 300px;
+    margin: auto;
+    border-radius: 10px; 
+    border-color: black;
+    padding: 10px;
+    padding-bottom: 20px;
+    background-color: #f1bc60;
+    position: relative;
+    font-size: small;
+}
+
+.footer-box a:hover {
+    color: #ab4c19;
+}
+
+.img-box {
     max-width: 800px;
     margin: auto;
     border-radius: 10px; 
     border-color: black;
     padding: 20px;
-    background-color: rgb(236, 204, 145);
+    background-color: #ab4c19;
     position: relative;
 }
 
